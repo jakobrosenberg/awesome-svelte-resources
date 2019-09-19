@@ -207,6 +207,8 @@ npx degit sveltejs/template svelte-app
   Boilerplate code with Typescript and Sass bundled by Webpack
 - [stephanepericat/svelte-boilerplate](https://github.com/stephanepericat/svelte-boilerplate) -
   Boilerplate with Webpack, Cypress, Travis CI, Storybook, and SASS
+- [jakobrosenberg/sapper-tailwindcss-starter-minimal](https://github.com/jakobrosenberg/sapper-tailwindcss-starter-minimal)
+  The official Sapper template with the bare minimum changes to use tailwindcss
 
 ### electron templates
 
