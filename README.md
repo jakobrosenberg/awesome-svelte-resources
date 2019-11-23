@@ -586,6 +586,7 @@ See the [ui component sets](#ui-component-sets) section for more.
   Helper for Svelte components to ease development. Used by `svelte-loader`
 - [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
   A rapid way to write documentation for your Svelte components
+- [`svelte-prism`](https://github.com/jakobrosenberg/svelte-prism) <sub>@jakobrosenberg</sub> - PrismJS for Svelte  
 
 ### other components and libraries
 
